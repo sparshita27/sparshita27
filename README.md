@@ -16,7 +16,7 @@ Developed a multimodal mammogram classification framework integrating transfer-l
 
 Conducted ablation studies comparing image-only and metadata-fused models using performance metrics including accuracy, F1-score, and recall.
 
-### AI/ML Pipeline for Anti-Cancer Drug Discovery
+### AI/ML Pipeline for Anti-Cancer Drug Discovery in Breast Adenocarcinoma
 
 **Python | Machine Learning | XGBoost | Random Forest | SVM | Computational Drug Discovery**
 
